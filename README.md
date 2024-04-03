@@ -1,2 +1,2 @@
 # SHORTIT
-MongoDB를 활용한 URI 주소 단축 서비스
+MongoDB를 활용한 URL 주소 단축 서비스
