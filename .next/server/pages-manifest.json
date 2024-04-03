@@ -1,6 +1,16 @@
 {
+  "/_document": "pages/_document.js",
+  "/api/short-links/[id]": "pages/api/short-links/[id].js",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/qrcodes/new": "pages/qrcodes/new.js"
+  "/api/short-links": "pages/api/short-links.js",
+  "/": "pages/index.html",
+  "/qrcodes/new": "pages/qrcodes/new.html",
+  "/short-links/new": "pages/short-links/new.html",
+  "/[shortUrl]": "pages/[shortUrl].js",
+  "/qrcodes/[id]": "pages/qrcodes/[id].js",
+  "/qrcodes": "pages/qrcodes.js",
+  "/short-links/[id]": "pages/short-links/[id].js",
+  "/short-links": "pages/short-links.js",
+  "/404": "pages/404.html"
 }
