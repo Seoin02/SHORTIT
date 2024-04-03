@@ -1,6 +1,14 @@
 self.__NEXT_FONT_MANIFEST={
-  "pages": {},
-  "app": {},
-  "appUsingSizeAdjust": false,
-  "pagesUsingSizeAdjust": false
+  "pages": {
+    "/_app": [
+      "static/media/a15f2fce4b98b461-s.p.woff2"
+    ]
+  },
+  "app": {
+    "/Users/iseoin/Desktop/코드잇/실습/shortit/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[5].use[1]!/Users/iseoin/Desktop/코드잇/실습/shortit/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[5].use[2]!/Users/iseoin/Desktop/코드잇/실습/shortit/node_modules/@next/font/google/target.css?{\"path\":\"pages/_app.js\",\"import\":\"Noto_Sans_KR\",\"arguments\":[{\"weight\":[\"400\",\"500\"],\"subsets\":[\"latin\"]}],\"variableName\":\"notoSansKR\"}": [
+      "static/media/a15f2fce4b98b461-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": true
 }
