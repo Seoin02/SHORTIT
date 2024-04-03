@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/qrcodes": [
+    "/short-links": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/qrcodes.js"
+      "static/chunks/pages/short-links.js"
     ]
   },
   "ampFirstPages": []

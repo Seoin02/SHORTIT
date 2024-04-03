@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/qrcodes": "pages/qrcodes.js"
+  "/api/short-links/[id]": "pages/api/short-links/[id].js",
+  "/short-links": "pages/short-links.js"
 }
